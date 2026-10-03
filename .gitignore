@@ -1,0 +1,6 @@
+.env
+data/chroma/
+data/rag_manifest.json
+__pycache__/
+*.py[cod]
+.venv/
